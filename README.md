@@ -46,13 +46,13 @@ workshop
 
 ## Nested List
 1. Name
-  i. First
-  2. Last
-  3. Mobile Name
+    1. First
+    2. Last
+    3. Mobile Name
 2. Github
-  1. Username
-  2. Mail ID
-  3. Password
+   1. Username
+   2. Mail ID
+   3. Password
 
 
 ```python
@@ -63,5 +63,6 @@ workshop
     if a%2==0
   printf(a+b+c)
 ```
+
   
 
