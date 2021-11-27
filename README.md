@@ -1,4 +1,5 @@
-# GITHUB_WORKSHOP
+ #sanjana
+ # GITHUB_WORKSHOP
 workshop 
 
 # Heading1
@@ -63,7 +64,6 @@ workshop
     if a%2==0
   printf(a+b+c)
 ```
-sanjana
 
   
 
